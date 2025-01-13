@@ -1,3 +1,0 @@
-Myself Girish Kumar
-And I am creating this File
-During the learning of Python language.
